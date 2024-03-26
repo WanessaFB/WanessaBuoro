@@ -19,4 +19,4 @@ contato.addEventListener('click', () => {
 });
 portifolio.addEventListener('click', () => {
   secaoPortifolio.scrollIntoView({ behavior: 'smooth' });
-});
+}); 
